@@ -25,10 +25,6 @@ Technologies Used
 -  CSS3 (Flexbox, Animations, Glassmorphism)
 -  JavaScript (ES6)
 
-Screenshots
-![Uploading Screenshot 2025-12-24 170508.png…]()
-
-
 License
 -  This project is open-source and free to use.
 
