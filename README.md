@@ -26,7 +26,8 @@ Technologies Used
 -  JavaScript (ES6)
 
 Screenshots
--  (Optional: Add screenshots or GIFs of your game here)
+![Uploading Screenshot 2025-12-24 170508.png…]()
+
 
 License
 -  This project is open-source and free to use.
