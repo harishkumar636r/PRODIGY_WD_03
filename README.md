@@ -24,6 +24,9 @@ Technologies Used
 -  HTML5
 -  CSS3 (Flexbox, Animations, Glassmorphism)
 -  JavaScript (ES6)
+
+live demo
+https://harishkumar636r.github.io/PRODIGY_WD_03/
 -  
 🤝 Connect With Me
 -  LinkedIn: www.linkedin.com/in/harish-kumar-r-636900r
