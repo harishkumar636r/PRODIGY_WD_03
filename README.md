@@ -30,7 +30,7 @@ https://harishkumar636r.github.io/PRODIGY_WD_03/
 -  
 🤝 Connect With Me
 -  LinkedIn: www.linkedin.com/in/harish-kumar-r-636900r
--  GitHub: [ https://YOUR_USERNAME.github.io/portfolio/](https://github.com/harishkumar636r/https-github.com-HarishPortfolio)
+-  GitHub: https://github.com/harishkumar636r/PRODIGY_WD_03
 -  
 License
 -  This project is open-source and free to use.
